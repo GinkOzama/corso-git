@@ -2,4 +2,4 @@
 
 *pasta
 *pepe
-*guanciale
+*pancetta
