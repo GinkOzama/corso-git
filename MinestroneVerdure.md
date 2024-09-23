@@ -7,3 +7,5 @@ Un ottimo piatto invernale.
 *cipolle
 *patate
 *carote
+*fagioli
+*peperoni
